@@ -19,7 +19,7 @@ Everything should come preconfigured. All you need is an up-to-date version of y
 
 ### Screenshot
 
-![](assets\screenshot.jpeg)
+![](assets\screenshot-2.jpeg)
 
 ### Project Link
 
